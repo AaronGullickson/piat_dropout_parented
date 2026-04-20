@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on High School Dropout and Parental Education
 
 # Introduction
 
@@ -10,12 +10,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic:
 
-Describe research topic
+Using data from the High School Longitudinal Study of 2009, you will examine the relationship between parental education level and the likelihood of dropping out of school before high school completion. You will also examine whether this relationship varies by public or private school enrollment.
 
 ### Research questions
 
-1.  x related to y
-2.  contextual variable
+1.  What is the relationship between the highest level of education among parents (or other primary caregivers) and the risk of high school dropout?
+2.  how does the relationship between parent education and the risk of high school dropout differ between students enrolled in public and private schools?
 
 ## Technical Details
 

@@ -1,5 +1,5 @@
 ---
-title: "Full Report on [Name Research Project]"
+title: "Full Report on Dropout Risk and Parental Education"
 author: "Your name here"
 format: pdf
 editor: visual

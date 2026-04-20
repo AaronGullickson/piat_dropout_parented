@@ -16,8 +16,9 @@ execute:
 ## This code block will load the data and packages that you will need
 ## for the project. Click the green "play" button in the upper right to run this
 ## code.
-#load("input/data.RData")
+load("input/hsls.RData")
 library(ggplot2)
+library(tibble)
 library(modelsummary)
 ```
 
